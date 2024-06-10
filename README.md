@@ -1,5 +1,15 @@
 # LLM PDF Chatbot
- An example LLM chatbot created with Cohere API and Streamlit that references a PDF document.
+ An LLM chatbot created with Cohere API and Streamlit that references a PDF document and csv file.
+
+## Introduction
+Gift Genie is a recommendation system that suggests gifts based on user input. Allows users to personalize gifts based on the recipient's age, gender, personality, and price range in US dollars. Used the Cohere LLM and hosted on Streamlit.
+
+## Video
+
+
+Uploading Sophie - AIML LLM Chatbot Final Prototype Video.mp4…
+
+
 
 ## Quick Start
 1. [Fork and then clone this repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#about-forks) to a folder on your computer.
