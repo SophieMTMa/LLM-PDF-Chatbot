@@ -5,7 +5,7 @@
 Gift Genie is a recommendation system that suggests gifts based on user input. Allows users to personalize gifts based on the recipient's age, gender, personality, and price range in US dollars. Used the Cohere LLM and hosted on Streamlit.
 
 ## Video
-![Gift_Genie_Demo_Video](https://drive.google.com/file/d/1WSlXvqrSX4xXuJuoQEFSoCQqZ1D8m0Ta/view?usp=sharing)
+![Demo](https://drive.google.com/file/d/1WSlXvqrSX4xXuJuoQEFSoCQqZ1D8m0Ta/view?usp=sharing)
 
 ## Quick Start
 1. [Fork and then clone this repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#about-forks) to a folder on your computer.
