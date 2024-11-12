@@ -1,4 +1,4 @@
-# LLM PDF Chatbot
+# Gift Genie
  An LLM chatbot created with Cohere API and Streamlit that references a PDF document and csv file.
 
 ## Introduction
